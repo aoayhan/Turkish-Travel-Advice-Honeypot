@@ -1,5 +1,4 @@
 # Turkish Travel Advice Website Honeypot
-## Project Overview
 This project is a Flask-based web application designed as a honeypot for a Turkish travel advice/news website. It features a decoy system displaying current news, a member and admin login system with distinct security mechanisms, and a monitoring system to track user interactions and potential security breaches. The application is designed to replicate certain vulnerabilities for educational and security testing purposes for Sabanci University CS 437 Cybersecurity course.
 
 Features
